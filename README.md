@@ -1,5 +1,8 @@
 # PyFunc Logger
 
+[![PyPI version](https://img.shields.io/pypi/v/pyfunc_logger.svg)](https://pypi.org/project/pyfunc-logger/)
+[![GitHub](https://img.shields.io/github/license/Yigal/pyfunc-logger)](https://github.com/Yigal/pyfunc-logger)
+
 A lightweight, thread-safe function call logger with precise timing for Python.
 
 ## Features
