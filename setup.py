@@ -11,7 +11,7 @@ setup(
     description="Function call logging with precise timing for Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yigalw/pyfunc_logger",
+    url="https://github.com/Yigal/pyfunc-logger",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
