@@ -15,6 +15,20 @@ A lightweight, thread-safe function call logger with precise timing for Python.
 
 ## Installation
 
+### Option 1: Install from PyPI (Recommended)
+
+```bash
+pip install pyfunc_logger
+```
+
+### Option 2: Install from GitHub
+
+```bash
+pip install git+https://github.com/Yigal/pyfunc-logger.git
+```
+
+### Option 3: Manual Installation
+
 Simply copy the `pyfunc_logger` directory to your project.
 
 ## Basic Usage
